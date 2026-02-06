@@ -126,10 +126,10 @@ Dessine uniquement le contour d’un cercle avec une épaisseur donnée.
 ## Animation d’un cercle
 
 **Description :**  
-Génère une animation où un cercle se déplace de gauche à droite sur plusieurs frames.
+Génère une animation où un cercle se déplace de gauche à droite sur plusieurs frames. Les images sont sauvegardées sous la forme `frame_000.png` à `frame_059.png`.
 
 **Création :**  
-Les images sont sauvegardées sous la forme `frame_000.png` à `frame_059.png`.
+![Animation du cercle](output/animation.gif)
 
 ## Rosace à 6 cercles
 
