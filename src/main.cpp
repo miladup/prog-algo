@@ -19,8 +19,6 @@ void mettre_vert(sil::Image& image)
     }
 }
 
-#include <algorithm> // pour std::swap
-
 void echanger_rouge_bleu(sil::Image& image)
 {
     for (int x = 0; x < image.width(); x++)
