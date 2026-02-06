@@ -5,7 +5,6 @@ L’objectif est de découvrir les bases du **traitement d’image algorithmique
 
 ## Mettre en vert
 
-**Description :**  
 Supprime les composantes rouge et bleue de l’image pour ne conserver que le vert.
 
 **Avant :**  
@@ -16,7 +15,6 @@ Supprime les composantes rouge et bleue de l’image pour ne conserver que le ve
 
 ## Échanger rouge et bleu
 
-**Description :**  
 Inverse les canaux rouge et bleu de chaque pixel.
 
 **Avant :**  
@@ -27,7 +25,6 @@ Inverse les canaux rouge et bleu de chaque pixel.
 
 ## Noir et blanc
 
-**Description :**  
 Convertit l’image en niveaux de gris à partir d’une moyenne pondérée des couleurs.
 
 **Avant :**  
@@ -38,7 +35,6 @@ Convertit l’image en niveaux de gris à partir d’une moyenne pondérée des 
 
 ## Négatif
 
-**Description :**  
 Inverse les couleurs de l’image (effet négatif).
 
 **Avant :**  
@@ -49,7 +45,6 @@ Inverse les couleurs de l’image (effet négatif).
 
 ## Dégradé horizontal (gris)
 
-**Description :**  
 Crée une image avec un dégradé horizontal du noir vers le blanc.
 
 **Création :**  
@@ -57,7 +52,6 @@ Crée une image avec un dégradé horizontal du noir vers le blanc.
 
 ## Dégradé de couleur
 
-**Description :**  
 Crée un dégradé horizontal allant du bleu vers le rouge.
 
 **Création :**  
@@ -65,7 +59,6 @@ Crée un dégradé horizontal allant du bleu vers le rouge.
 
 ## Miroir horizontal
 
-**Description :**  
 Retourne l’image horizontalement.
 
 **Avant :**  
@@ -76,7 +69,6 @@ Retourne l’image horizontalement.
 
 ## Bruit aléatoire
 
-**Description :**  
 Ajoute du bruit aléatoire sur certains pixels de l’image.
 
 **Avant :**  
@@ -87,7 +79,6 @@ Ajoute du bruit aléatoire sur certains pixels de l’image.
 
 ## Rotation 90° à droite
 
-**Description :**  
 Fait pivoter l’image de 90 degrés dans le sens horaire.
 
 **Avant :**  
@@ -98,7 +89,6 @@ Fait pivoter l’image de 90 degrés dans le sens horaire.
 
 ## Décalage RGB
 
-**Description :**  
 Décale les canaux rouge et bleu horizontalement pour créer un effet chromatique.
 
 **Avant :**  
@@ -109,7 +99,6 @@ Décale les canaux rouge et bleu horizontalement pour créer un effet chromatiqu
 
 ## Cercle plein
 
-**Description :**  
 Dessine un cercle blanc plein au centre d’une image noire.
 
 **Création :**  
@@ -117,7 +106,6 @@ Dessine un cercle blanc plein au centre d’une image noire.
 
 ## Cercle avec contour
 
-**Description :**  
 Dessine uniquement le contour d’un cercle avec une épaisseur donnée.
 
 **Création :**  
@@ -125,7 +113,6 @@ Dessine uniquement le contour d’un cercle avec une épaisseur donnée.
 
 ## Animation d’un cercle
 
-**Description :**  
 Génère une animation où un cercle se déplace de gauche à droite sur plusieurs frames. Les images sont sauvegardées sous la forme `frame_000.png` à `frame_059.png`.
 
 **Création :**  
@@ -133,7 +120,6 @@ Génère une animation où un cercle se déplace de gauche à droite sur plusieu
 
 ## Rosace à 6 cercles
 
-**Description :**  
 Dessine une rosace composée de 6 cercles autour d’un cercle central.
 
 **Création :**  
@@ -141,7 +127,6 @@ Dessine une rosace composée de 6 cercles autour d’un cercle central.
 
 ## Mosaïque simple
 
-**Description :**  
 Répète l’image source pour remplir une image plus grande.
 
 **Avant :**  
@@ -152,7 +137,6 @@ Répète l’image source pour remplir une image plus grande.
 
 ## Mosaïque miroir
 
-**Description :**  
 Crée une mosaïque en alternant des images retournées horizontalement et verticalement.
 
 **Avant :**  
@@ -163,7 +147,6 @@ Crée une mosaïque en alternant des images retournées horizontalement et verti
 
 ## Glitch
 
-**Description :**  
 Échange aléatoirement des rectangles de pixels pour créer un effet glitch.
 
 **Avant :**  
